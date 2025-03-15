@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "PulseM",
+    "slug": "pulsem",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/avatar.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/banner.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "sdkVersion": "49.0.0"
+  }
+}
