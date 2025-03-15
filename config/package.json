@@ -1,0 +1,13 @@
+{
+  "name": "pulsem",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "expo start --clear"
+  },
+  "dependencies": {
+    "expo": "~49.0.0",
+    "expo-router": "~2.0.0",
+    "react": "18.2.0",
+    "react-native": "0.73.3"
+  }
+}
